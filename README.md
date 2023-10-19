@@ -1,6 +1,6 @@
 ## Description
 
-Test assignment for a trainee position in DocuSketch, hosted [here](aicongenerator.netlify.app)
+Test assignment for a trainee position in DocuSketch, hosted [here](https://aicongenerator.netlify.app)
 
 ### Technologies used:
 
