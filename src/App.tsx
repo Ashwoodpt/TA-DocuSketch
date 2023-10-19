@@ -1,4 +1,3 @@
-import './App.css';
 import { RandomIconGenerator } from './components';
 
 function App() {
